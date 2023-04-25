@@ -1,5 +1,5 @@
 {
-  "name": "HA Add-ons by alexbelgium",
-  "url": "https://github.com/alexbelgium/hassio-addons",
-  "maintainer": "alexbelgium"
+  "name": "HA Add-ons by jpgimenez (fork of alexbelgium)",
+  "url": "https://github.com/jpgimenez/hassio-addons-alexbelgium",
+  "maintainer": "jpgimenez"
 }
